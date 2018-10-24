@@ -1,0 +1,14 @@
+{
+	"name": "Project",
+	"displayName": "Project",
+	"expo": {
+		"name": "Project",
+		"sdkVersion": "30.0.0",
+		"ios": {
+			"bundleIdentifier": "io.supernova.spacebook"
+		},
+		"android": {
+			"package": "io.supernova.spacebook"
+		}
+	}
+}
